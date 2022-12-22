@@ -275,15 +275,15 @@ header .list li a {
 }
 
 .sect-one .carousel-item.one {
-    background-image: url(../../assets/images/slider-img-1.jpeg);
+    background-image: url(../assets/images/slider-img-1.jpeg);
 }
 
 .sect-one .carousel-item.two {
-    background-image: url(../../assets/images/slider-img-2.jpeg);
+    background-image: url(../assets/images/slider-img-2.jpeg);
 }
 
 .sect-one .carousel-item.three {
-    background-image: url(../../assets/images/slider-img-3.jpeg);
+    background-image: url(../assets/images/slider-img-3.jpeg);
 }
 
 /********** SECTION TWO **********/
